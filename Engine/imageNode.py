@@ -34,3 +34,6 @@ class iNode():
 
 	def get_imageID(self):
 		return self._imageID
+	
+
+	print("hello world, this nice place \n shame if I were to....s")
